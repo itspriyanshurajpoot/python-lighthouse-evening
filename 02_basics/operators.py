@@ -47,4 +47,4 @@ c = [1, 2, 3]
 print(a is b) # True
 print(a is c) # False
 print(a == c) # True
-
+print("%.3f"%(10/3))
